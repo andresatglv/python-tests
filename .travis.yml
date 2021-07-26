@@ -1,6 +1,8 @@
 language: python
 python:
-  -"3"
+  -"3.5"
+virtualenv:
+  system_site_packages: true
 install:
   - pip install -e .
   - pip install codecov pytest-cov # Install packages for code coverage report
