@@ -3,7 +3,7 @@ python:
 -"3.6"
 install:
 - pip install -e .
-- pip install pytest-cov codecov # Install packages for code coverage report
+- pip install codecov pytest-cov # Install packages for code coverage report
 script:
 - pytest --cov=src tests # Point to the source directory
 after_success:
