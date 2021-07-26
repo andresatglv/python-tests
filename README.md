@@ -12,9 +12,9 @@ To install, first clone the repo
 ```
 git clone https://github.com/lfponton/python-tests.git
 ```
-Then install the package locally using pip, making sure that your Python version is `>=3.6`.
+Then install the package locally using pip, while in the repo's folder, making sure that your Python version is `>=3.6`.
 ```
-pip install -e univariate_linear_regression
+pip install -e .
 ```
 To run all the test do
 ```
