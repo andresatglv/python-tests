@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.com/lfponton/python-tests.svg?branch=main)](https://travis-ci.com/lfponton/python-tests)
+[![codecov](https://codecov.io/gh/lfponton/python-tests/branch/main/graph/badge.svg?token=VLIQ5PIR7S)](https://codecov.io/gh/lfponton/python-tests)
 
 # python-tests
 
