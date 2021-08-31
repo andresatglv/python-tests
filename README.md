@@ -3,6 +3,8 @@
 
 # python-tests
 
+SEIS
+
 This reporsitory is a test to include Travis CI and Codecov in a repository.
 
 The code included is from the Unit Testing for [Data Science in Python by Dibya Chakravorty](https://learn.datacamp.com/courses/unit-testing-for-data-science-in-python).
